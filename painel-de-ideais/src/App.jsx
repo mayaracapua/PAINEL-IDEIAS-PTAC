@@ -98,7 +98,7 @@ function App() {
             </div>
 
             <button onClick={() => removerIdeia(ideia.id)}>
-              X
+              Remover
             </button>
 
           </li>
